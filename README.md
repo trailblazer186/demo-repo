@@ -1,3 +1,3 @@
 # Demo
 
-Description about project.
+Description about new project.
